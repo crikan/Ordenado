@@ -21,9 +21,9 @@ public class Ordenado {
 		}
 		
 		if(ordenado)
-			System.out.println("ordenado");
+			System.out.println("los números están ordenados");
 		else
-			System.out.println("no ordonado");
+			System.out.println("los números no están ordenados");
 	}
 		
 }
